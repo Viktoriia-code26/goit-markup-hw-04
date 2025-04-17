@@ -406,8 +406,10 @@ background-color: #404bbf;
     position: relative;
  }
  .box:hover .overlay {
+    opacity: 1;
     transform: translateY(0);
  }
+
 .portfolio-name {
     font-weight: 500;
     font-size: 20px;
